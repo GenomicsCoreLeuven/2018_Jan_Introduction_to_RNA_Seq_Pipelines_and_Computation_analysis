@@ -1,0 +1,2 @@
+# 2018_Jan_Introduction_to_RNA_Seq_Pipelines_and_Computation_analysis
+2018_Jan_Introduction_to_RNA_Seq_Pipelines_and_Computation_analysis
